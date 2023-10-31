@@ -2427,6 +2427,7 @@ Urgo "Ouaip, elle vit dans les eaux profondes. Un conseil Jean Plank, méfie toi
 jp "J'en prends note."
 
 scene vex
+scene vex
 
 "Cette discussion terminée, Jean Plank prit une bonne nuit de sommeil avant de repartir le lendemain en direction de la tant recherchée Île des Traîtres."
 "La route était longue et notre héros s'appliquait à suivre méticuleusement l'itinéraire que lui avait partagé son ami DE CONFIANCE afin de ne pas s'égarer."
@@ -2447,7 +2448,7 @@ menu:
         
         #voice "doublages_jp4/scene9/scene10_jp1.ogg"
         jp "J'ai autre chose à faire que de la garde d'enfants !" #de chiards ?
-        "Il tourna les talons et, d'un pas décidé, se mangea dans la face une branche qu'il n'avait pas vue."
+        "Il tourna les talons et, d'un pas décidé, se mangea dans la face une branche qu'il n'avait pas vu."
 
         #voice "doublages_jp4/scene9/scene10_jp2.ogg"
         jp "Aie !"
@@ -2480,63 +2481,45 @@ menu:
 label vex:
 
 #voice "doublages_jp4/scene9/scene10_jp4.ogg"
-jp "Allez, qu'est-ce qui t'arrive ? Je peux t'aider !"
+jp "Allez, qu'est-ce qui t'arrive ? Je peux t'aider ?"
 "La fillette plongea alors son regard larmoyant dans celui de Jean Plank."
 
 #voice "doublages_jp4/scene9/scene10_vex3.ogg"
 fillette "C'est vrai ?"
-"Elle le fixait avec une telle intensité qu'elle réveilla la fibre paternelle de notre bon capitaine."
+"Elle le fixait avec une intensité telle qu'elle réveilla la fibre paternelle de notre bon capitaine."
 "Il en fut lui-même surpris. Sans doute était-ce là le résultat de son contact prolongé avec cette crapule de Jinx."
 "Songeant que cette dernière lui manquait, il répondit à la fillette qui s'était timidement rapproché de lui."
 
 #voice "doublages_jp4/scene9/scene10_jp5.ogg"
 jp "Mais oui petite... Comment tu t'appelles ?"
 
-#voice "doublages_jp4/scene9/scene10_vex4.ogg"
-fillette "Désoh."
-"Une sueur algide glissa alors le long de la colonne de notre cher capitaine."
+fillette "Attends"
+"Son regard toujours plongé dans celui du capitaine elle tatonna sur le sol jusqu'à se quelle sente l'objet tant convoité"
+"Jean Plank s'autorisa à cligner des yeux tandi qu'elle ramassa un gros morceau de bois"
+"Tant bien que mal elle essaya de remonter la buche qu'elle tenait à bout de bras au dessus de sa tête."
+"Bon prince et la voyant galérer Jean Plank s'agenouilla et l'assista dans sa tache"
+jp "Qu'est ce que tu compte faire exactement avec ça ?"
+"Désormais droite comme un piquet elle répondi"
+fillette "Ferme les yeux et tu sauras"
+jp "Tu vas m'assomer avec cette buche c'est ça ?"
+fillette "Ferme les yeux et tu sauras !"
+"Curieux de savoir si ilavait raison Jean plank ferma les yeux !"
+#Sound BRUIT DE BUCHE SUR UN CRANE
 
-#voice "doublages_jp4/scene9/scene10_jp6.ogg"
-jp "Nan, quand même pas..."
-
-#voice "doublages_jp4/scene9/scene10_vex5.ogg"
-vex "Désoh Profonde."
-"Jean Plank regarda le pistolet qui appuyait désormais sur son imposante bedaine, pensa très très fort au destin qui l'avait conduit à cet endroit précis, et s'exclama très stupéfait et très énervé à la fois :"
-
-#voice "doublages_jp4/scene9/scene10_jp7.ogg"
-jp "Mais, mais vraiment ?!"
-"Eh oui, vraiment... Jean Plank aurait dû se méfier de cette salope."
-"Désoh arborait à présent un sourire radieux."
-
-#voice "doublages_jp4/scene9/scene10_vex6.ogg"
-vex "Bon \"Jean\", je vais être sympa. Je vais juste tout te prendre."
-
-#voice "doublages_jp4/scene9/scene10_jp8.ogg"
-jp "Comment ça ?"
-
-#voice "doublages_jp4/scene9/scene10_vex7.ogg"
-vex "Je veux tout. Ta veste, ton épée, ton flingue, ton futal... Tout !"
-
-#voice "doublages_jp4/scene9/scene10_jp9.ogg"
-jp "Mais !"
-
-"Elle ajusta le chien de son pistolet pour signifier à Jean Plank qu'elle s'impatientait."
-"À contrecœur, il commença à se déshabiller."
+"Jean PLANK se reveilla quelques minutes plus tards"
+"Il était en splip et attaché à un arbre dans une position inconfortable"
+"C'est alors qu'il réalisa"
+jp "Ah Ah j'avais raison !"
+"Cette revelation le remplis suffisament d'orgeuil pour qu'il passe outre le fait qu'il venait de se faire avoir par l'asticieux stratagèe d'une petite fille"
 "Il se consolait en se disant que, au moins, il n'avait plus d'honneur à perdre."
-"Jean Plank était dorénavant en caleçon."
-
-#voice "doublages_jp4/scene9/scene10_jp10.ogg"
-jp "Je peux partir maintenant ?"
-"Désoh avait maintenant quelque chose de félin dans le regard, en plus du sourire pervers qui était apparu sur son visage."
-"Malgré son mètre vingt de haut, elle était vraiment effrayante."
-
-#voice "doublages_jp4/scene9/scene10_vex8.ogg"
-vex "J'ai dit \"tout\" !"
-"Jean commença à baisser le vêtement qui camouflait son serpent d'argent quand, soudainement, surgit des branchages un visage familier."
+jp "Eh toi !"
+"Voyant que le capitaine avait repris conscience la fillette se diregea vers lui et pris une pose stylé pour se présenter"
+fillette "Haha Stupide Brigant, tu viens de te faire avoir par la sorcière des Eaux profondes"
+"Elle allait commencer ça corégraphie de présentation mais elle se figeat en entendant un bruit dns les fourés"
+"Surgissant des branchages en prenant à son tour une pose stylé se planta alors à coté de Vex un personnage familier"
 
 #voice "doublages_jp4/scene9/scene10_jinx1.ogg"
 jinx "Saluuuuuuuut !!!"
-"Vive comme un écureuil sous caféine, Jinx sortit son double canon et le braqua sur le crâne de Désoh avant même que celle-ci n'ait eu le temps de réagir."
 
 #voice "doublages_jp4/scene9/scene10_jinx2.ogg"
 jinx "Alors, Jean ?"
@@ -2544,9 +2527,14 @@ jinx "Alors, Jean ?"
 #voice "doublages_jp4/scene9/scene10_jinx3.ogg"
 jinx "Comment ça va, vieille branche ?" #Je veux un montage de jinx qui a une branche dans les mains juste pour faire sa vanne de merde
 "Le capitaine était bouche bée."
-"Désoh, au comble de la frustration, n'eut d'autre choix que de remettre son arme à Jinx."
-"Notre capitaine ramassa ses effets personnels sur le sol et, tout en se rhabillant, questionnait Jinx qui s'amusait à prendre des poses complexes tout en gardant Désoh en joue."
-"Cette dernière commençait à comprendre qu'elle n'avait malheureusement pas vraiment une gueule de protagoniste."  
+
+vex "Hé qu'es ce que tu fais là toi"
+
+"Vive comme un écureuil sous caféine, Jinx sortit son double canon et le braqua sur le crâne de Désoh avant même que celle-ci n'ait eu le temps de réagir."
+
+jinx "Les mains sur la tête !"
+
+"Peu habitué à être braquée Vex s'executa sans histoire"
 
 #voice "doublages_jp4/scene9/scene10_jp11.ogg"
 jp "Qu'est ce que tu fais là ?"
@@ -2611,17 +2599,54 @@ jp "Préféré partir ?"
 #voice "doublages_jp4/scene9/scene10_jinx9.ogg"
 jinx "Ouaip !"
 
+vex "Loin de moi l'idée de perturber vos retrouvailles mais..."
+
+jinx "WOW TU TE CALME TOUT DE SUITE !"
+"Terrifié Vex leva les mains les main en l'air"
+"Du fait que ses manches étaient trop longue, celà la rendait particulièrement pipou"
+"Jinx la regarda attentivement"
+
+jinx "Jean Plank ?"
+jp "Tu me détache ?"
+jinx "On peut la garder ?"
+jp "Je ne travaille pas avec les gens qui me dépouillent"
+#crayon
+jinx "Jean plank ?"
+jp "..."
+jp "Merde"
+#fin crayon
+
+jp "Tu maitrise l'eau c'est ça ?"
+vex "L'eau ? Bah nan pourquoi ?"
+jp "Ton nom ?"
+vex "Oh bien excuse moi Jean PLANCHE grand maître du cèdre et du contre-plaqué !"
+jp "..."
+jp "M'en fous j'lai pas et en plus t'es moche !"
+jinx "Mais nan elle est trop pipsou !"
+"Jean Plank essaya de peser le pour et le contre."
+"D'un coté la fillette lui avait manqué de respect, l'avait humilié et tenté de le dépouiller mais d'un autre..."
+"En fait il n'y avait aucun autre coté. C'était juste une mauvaise idée, mais qui sait ce que l'avenir nous reserve"
+jp "Mmm j'hésite..."
+jinx "On va aller tabasser un magicien je suis sur qu'elle serait utile"
+
+vex "Oula tout doux, je suis sorcière moi pas magiciene"
+jp "ça change quoi ?"
+vex "ça dépend du bouquin"
+"Jean plank ne sachant toujours pas lire, il ne demanda pas d'avantage d'explication"
+jinx "Bon c'est oui ou c'est non ?"
+"Lassé de cette conversation Désoh pris la décision à la pale de jean en incantant alors un sort la faisant disparaitre dans une explosion de fumé qui bien que tristement conventionael faisait tout de même de l'effet"
+jp "oh non à l'instant même ou j'allais dire oui"
+jinx "C'est donc un oui !"
+jinx "Et j'espère que tu sais ce que je fais aux menteur"
+"Jean ne savais pas et il n'avais pas envie de savoir, il changea donc de sujet"
+
 #voice "doublages_jp4/scene9/scene10_jp13.ogg"
 jp "Fort bien, puisque tu es là, tu vas pouvoir m'aider à me venger !"
-
-#voice "doublages_jp4/scene9/scene10_jp14.ogg"
-jp "En avant !"
-
-#bruit de coup de feu
 
 #voice "doublages_jp4/scene9/scene10_jinx10.ogg"
 jinx "Ouais, grave !"
 "Très content d'avoir récupéré son acolyte préférée et sachant à quel point celle-ci lui avait sauvé la mise, Jean Plank repris alors son chemin vers l'Île des Traîtres."
+
 
 #scene 11
 
@@ -2834,7 +2859,378 @@ jinx "Seruvisu !"
 
 
 
+"En route vers sa vengeance, notre fier capitaine avait un mal fou à contenir son excitation."
+"Il était temps de faire part à Jinx du génialisime plan de vengeance qu'il préparait depuis maintenant des mois."
+jp : "J'ai un plan en 3 étapes."
+jp : "Etape 1 : je mets le feu à cette maison de traître pour faire sortir Lucien."
+jp : "Etape 2 : je tabasse Lucien jusqu'à ce qu'il soit bien tabassé."
+jp : "Etape 3 : je mets le feu au corps tabassé de ce traître."
+jinx : "Impressionnant."
+jp : "Je sais."
 
+"Quelques minutes plus tard, nos deux compères arrivaient devant l'imposante demeure de Lucien."
+"Un gigantesque bâtiment tout en marbre blanc se dressait devant eux."
+"La bâtisse tenait davantage du château que de la maison."
+
+jinx : "Bon, c'est quoi le plan B ?"
+jp : "Comment ça le plan B ?"
+jinx : "La pierre ça brûle pas."
+jp : "Sauf si tu souffles assez fort !"
+
+# Scène crayon
+jinx : "..."
+jp : "..."  # jp sans sourire
+jp : "..."  # jp avec un gros sourire forcé
+
+# Scène où jp et jinx essaient de mettre le feu à un rempart du château
+jp : "MAIS SOUFFLE BON SANG DE BOIS ! SOUFFLE !!"
+jinx : "C'EST TOI QUE JE VAIS SOUFFLER !!"
+
+"Après une demi-heure de sueur et de larmes, Jean Plank se résigna finalement à changer de stratégie."
+"Ils entreprirent d'effectuer un repérage en faisant le tour du château."
+"A la suite de quoi plusieurs options étaient envisageables."
+
+menu:
+    "Passer par la plus haute tour du château":
+        jp : "C'est décidé, on passe par le donjon !"
+        jinx : "T'es sûr ? C'est vachement haut quand même ! Y a une fenêtre là-bas, tu ne veux pas plutôt casser un carreau ?"
+        jp : "Si jamais quelqu'un nous surprenais, on perdrait l'effet de surprise !"
+        "Argument imparable, Jinx ne put qu'acquiescer religieusement."
+        "Ils commencèrent leur difficile ascension."
+        "Le marbre lisse et parfaitement taillé offrait très peu de prise à nos héros."
+        "Malgré le fait qu'elle fût particulièrement agile, Jinx manqua de tomber plus d'une fois, mais Jean qui tenait étonnamment bien la rattrapa à chaque fois."
+        jp : "J'ai les mains super moites."
+        "C'était à la fois répugnant et impressionnant."
+        "Après 1 heure 45 minutes de grimpette, moitié parce que c'était haut, moitié parce que c'était normalement impossible, ils atteignirent enfin la plus haute fenêtre de la plus haute tour."
+        "On entendait une voix féminine fredonner un air musical."  # sound karama qui fredonne le thème de jp
+        jinx : "Y a quelqu'un, on fait quoi ?"
+        menu:
+            "Abandonner l'effet de surprise":
+                "Abandonnant son plan initial, Jean bondit en hurlant sur le rebord de la fenêtre, le tout dans un fébrile équilibre."
+                jp : "Trouver une punchline nulle."
+                "Il se retrouva alors nez à nez avec Karma, fort peu vêtue, qui lacha une cri de surprise avant de balançer au visage de Jean le truc qu'elle tenait en main."
+                "Surpris et perdant l'équilibre, il tomba à la renverse."
+                "Après une chute monumentale où il eut tout juste le temps de réaliser qu'il était foutu, il s'empala violemment sur la barrière du château, 100 mètres en contrebas."
+                "Et c'était pour le mieux !"
+                "De toute façon, après tous les efforts qu'elle avait faits pour monter en haut de cette fichue tour pour soi-disant conserver l'effet de surprise, si vous n'étiez pas tombé, c'est Jinx qui vous aurait balancé."
+                "Pauvre connard !"
+                jump mort_chateau
+
+            "Jeter un coup d'œil discret":
+                "Nos deux acolytes hissèrent leurs yeux jusqu'au rebord de la fenêtre."
+                "Leurs regard tomberent alors sur une vielle connaissance de Jean au corp aussi attrayant que dénudé"
+                jinx "Wow, pas mal du tout"
+                jp "C'est Karma ! Le salaud la maintient surement prisonnière"
+                jinx "Plutot cool la geole si tu veux mon avis"
+                "Discretement ils entrères dans la chambre"
+                "Afin de s'annoncer Jean se racla la gorge"
+                jp "eh hem"#Idée : il se racle la gorge trop fort et tousse comme un débile
+                "Karma sursauta avant de se retourner"
+                karma "Jean Plank ?! Mais qu'est ce que tu fais ici ?!"
+                jp "Je suis venu te sauver !"
+                "C'était absolument faux, Jean Plank n'avait absolument aucune idée de pourquoi il avait dit ça"
+                karma "Me sauver ? Mais de quoi ?"
+                jp "De ce felon de Lucien qui ta enlevé et te séquestre depuis des mois"
+                karma "Mais enfin c'est mon Mari"
+                jinx "C'est pas incompatible"
+                karma "ce que j'éssai de dire c'est que je suis là de mon plein grès"
+                jp "De ton plein gré ?"
+                jp "Tu m'a donc trahi to aussi !"
+                karma "Je ne sais pas si on peut parler de trahison, j'était ta geolière"
+                jp "Silence chienne de femme !"
+                "Hurla Jean en lançant un crochet margistrale"
+                karma "je ne te permet pas vieille barique !"
+                "Retorqua Karma en envoyant un contre fabuleusement bien timé qui souleva de terre le capitaine"
+                "Alors qu'il tombait lourdement sur le sol, l'image de son défun grand père apparu à Jean Plank"
+                grand_pere_jp "Quand la situation devient difficile, le cloporte se roule en boule et fait semblant d'être mort."
+                #retour au présent
+                jp "Merci papi !"
+                "Dis Jean Plank avant de rouler sur le sol en position foetale."
+                "Jinx trouvais très plaisant de voir Jean se faire étaler par une femme"
+                "Jugeant qu'il s'en sortait à merveille elle décida d'aller monter la garde le temps qu'ils règle leurs affaire"
+                jinx "Bon je vous laisse entre vous, à toute à l'heure !"
+                "Dit-elle en passant la porte de la pièce"
+                karma "Hé ! Attend !"
+                "C'était la diversion parfaite dont Jean Plank avait besoin!"
+                "Bien joué Jinx!"
+
+                "Aussi vif que fourbe, Jean profita de ce moment d'inattention pour se précipiter sur Karma et la plaquer au sol."
+                "Assis sur elle, il commença à la rouer de coups."
+                "Karma leva les bras, mais dans cette position contraignante, même sa solide garde ne pouvait tout bloquer."
+                "Le style de bagarreur de Jean était grossier, mais n'en demeurait pas moins efficace."
+
+                "Cependant, il laissait de nombreuses ouvertures, et Karma, combattante aguerrie, ne manquait pas d'utiliser chacune d'entre elles pour renvoyer les coups du capitaine."
+                "Le combat se prolongea, et alors que le sang et les hématomes commençaient à marquer les corps des combattants, aucun n'était prêt à céder."
+                "Jean Plank y mettait toute sa force, et chacun de ses coups arrachait un rictus de douleur à Karma à travers sa garde, mais pour chaque atteinte qu'elle recevait, elle s'efforçait de renvoyer un coup plus puissant encore."
+
+                "Soudain, un uppercut particulièrement bien placé de la part de Karma donna à celle-ci suffisamment d'espace pour qu'elle puisse envoyer un coup assasin dans le foie de Jean Plank."
+                "Il cessa alors de frapper avant de sécrouler sur le côté en bavant, le visage déformé par la douleur, ."
+                "Le coeur au bord des lèvres il réalisa alors que Karma lui plaisait."
+                "C'était peut être juste l'adrenaline ou une comotion cérabrale mais c'était la première fois qu'il avait qu'il avait une telle intéraction avec une femme"
+                "Qui plus est, qu'elle meilleur vengence que de se faire la femme de son énemie jurée !"
+                "Malheuresement c'était pour le moment plutot mal engagé"
+                karma "Frappe moi !"
+                "Délirait il ?"
+                "Peut-importe, dans un combat le vainqueur était celui  qui portait le dernier coup"
+                "Il se redressa, lança son bras et mis une violente tarte à karma"
+                "Celle ci encaissa le coup comme une reine et souriante cracha su le sol un molard plein de sang"
+                "Son regard avait changé et avait désmrmais quelque chose de félin"
+                "Elle se précipita sur le capitaine et le capitaine et le renversa sur le dos."
+                "Lui grimpant dessus, elle arracha la veste de jean. Elle planta alors les ongle de sa main droite sur son torse velu et de la guauche lui rendit une claque si magistrale claque qu'elle arracha une molaire au capitaine"
+                karma "Plus fort !"
+                "Abandonnant alors toute reflexion Jean se laissa alors glisser corp et âme dans cette aventure ou se mélange la violence et la vie"
+
+                "Quand Jean se reveilla, il faisait déjà nuit"
+                "Karma le regardait tendrement, ses deux yeux d'un superbe vert illuminant son visage tuméfié."
+                karma "Aller habille toi beau brun. Je t'emene voir Lucien."
+                "Peniblement, Jean se releva et revetis ses habits. Chaque mouvement était douloureux."
+                "Pour la première fois de ça vie, il se demandais si la vengeance en avait vraiment value le coup."
+                "Chassant cette pensé sogrenu de son esprit il enfila sa deuxième botte."
+                "Soudain une sueur glacé lui parouru la nuque"
+                "Jinx !"
+                "Depuis combien de temps montait t'elle la garde sur le pas de la porte ?!"
+                "Il se precipita dessus et l'ouvrit"
+                "Elle n'était pas là"
+                "Dans un premier temps soulagé de ne pas se faire corriger dans son état, il s'inquiéta finalement de ne pas la voir."
+                "Il remarqua alors un papier épeinglé à l'aide d'un poignard sur la porte."
+                "Jean l'aracha avant de le tendre à karma"
+                karma "C'est écrit : 'Ai trouvé enfant noir rigolo, suis partis explorer le chateau avec. à toute !'"
+                jp "Mmm c'est un message codé"
+                karma "Non pas du tout"
+                karma "Aller suis moi on va la récupérer et ensuite je t'amène à Lucien"
+
+                "Ils déanbulère un moment dans les couloirs."
+                "Décidemenent cette maison était vraiment immence !"
+                "Il finirent par arriver devant une mignonne porte en bois sur laquelle il y avait écrit 'salle de jeu'"
+                "Mais ça Jean Plank ne le savais pas"
+                "Et tout le monde s'en fou"
+                karma "Normalement elle devrait être dans cette pièce."
+
+                karma "Jean, tu aimes les enfants ?"
+
+                menu:
+                "Oui":
+                    "Jean Plank voulais dire non mais répondis oui pour faire bonne figure."
+                    jp "Non"
+                    jp "Zut"
+                "Non":
+                    "Jean Plank voulais dire oui mais répondis non pour le plaisir"
+                    jp "J'adore l'air marin !"
+                "Tu ne trouve pa que ça va un peu vite entre nous ?":
+                    jp "Tu ne trouve pa que ça va un peu vite entre nous ?"
+                    "Wow ! Mais vous êtes un malade ? Faut j'amais dire ça ! Vous aller vous attirer des problèmes !"
+                    "Et maintenant Karma est véxé..."
+
+                karma "..."
+                "Karma l'ouvrir en grand la porte et devoilà fièrement sa progéniture à Jean Plank"
+
+                karma "Jean je te présente mes enfants !"
+            
+                "Jean ouvrit des yeux tout rond. Il y avait vraiment beaucoup d'enfant dans cette pièce."
+                "Toute cette joyeuse marmaille riait et courrait dans tous les sens."
+                "Certains, curieux, s'approchèrent de Jean pank mettant celui ci un peu mal à l'aise."
+                jp "Mais y'en a combien ?"
+                karma "24"
+                jp "Combien ?!"
+                karma "je ne vais pas te mentir ils sont pas tous de moi."
+                
+                jinx "Jean Plank !"
+                jp "Jinx !"
+                jinx "Salut vieux T-rex !"#Le meme montage que pour le "vieille branche"
+                jinx "Ouais nan ça marche pas "
+                jinx "Regarde comme il est rigolo"
+                "Dit elle en tendant à Jean Plank un enfant particulièrement laid". #ya un monde ou en fait billy il a la gueule de 2 pac nan ?
+                "Celui ci, plus par peur que par surprise recula un peu son visage avant d'acquiesser"
+                jp "Le portrait craché de son père !"
+                jinx "Lui c'est Billy ! Il m'a montré sa collection de dinosaures et je lui ai expliqué comment faire un bombe artisanale avec la tuyauterie de la salle de bain !"
+                karma "Merci de t'être occupé de Billy"
+                "Dit-elle en ébouriffant la chevelure de jinx qui sembla apprécier"
+                "Le regard de jinx se posa alors sur les équimoses et les griffures qui couvrait le capitaines."
+                jinx "Il t'es arrivé quoi ?"
+                #Crayon
+                jp "Jinx"
+                jinx "Oui Jean Plank"
+                jp "Je suis un homme qui va jusqu'au bout de ses convictions"
+                karma "Et bien au font des choses !"
+                "Plaisanta Karama en claquant l'arrière du crane de Jean plank tellement fort que son nez commença à saigner"
+                jp "Ha Ha !" 
+                jp "" # En vrai si ya moyen de faire un montage avec le "pretending to be happy meme"
+
+
+                "Ils discutèrent encore un peu puis Jean Plank demanda à Karma de le conduire à son nemesis."
+                "Jinx dit au revoir aux enfant et billy, aussi moche que généreux offrit le T-rex en plastique à jinx."
+                "Retenez ce dinausre, il aura un importance cruciale dans la suite de l'histoire."
+                "Ou pas, on verra si l'inspiration me vient."
+
+                "No protagonistes traverserent tout le chateau"
+                "Il était vaiment gigantesque et mirent un bon quart d'heure avant d'emprunter un étroit escalier en colimasson qui selon Karma descendait au Laboratoire de Lucien."
+                "En bas de l'escalier se trouvait une épaisse porte en bois."
+                "Encore un adversaire qui se dressait entre Jean Plank et sa vengeance."
+                "Fort heureusement il était plus malin que son oposant et réussit à l'ouvrir sans peine".
+                "Le grincement strident sonnait comme une douce mélopé aux oreilles de notre héro"
+                "Il fit un pas dans la pièce"
+                "Lucien était enfin là sous ses yeux !"
+                "Il était en grande discussion mais de là où il se trouvait il était impossible à Jean de savoir avec qui."
+                "Etonnament la rage ne gagnait pas notre capitaine"
+                "Il s'était mainte fois représenté la scène et la façon dont il imolerait lucien dit le sale traitre de merde après l'avoir glorieusement battu en duel"
+                "Les choses ne se déroulaient déjà pas comme prévu"
+                "Premièrement il y avait quelqu'un d'autre que Lucien ce qui faisait un adversaire supplémentaire"
+                "On était donc au moins à deux adversaire."
+                "Trois si on comptait la porte"
+                "De son coté, Lucien toujours en grande discussion n'avait pas remarqué l'arrivé de ses visiteur"
+                "Pour Jean plank il était hors de question d'innitier la conversaton, ça aurait été un signe de faiblesse"
+                "La vengaence est un plat qui se mange à l'eau de mer ! Pensa t'il alors qu'il s'imobilisait ne bougant plus un cil"
+                jinx "Oh gros connard tu avances ou tu compte dormir ici ?"
+                jp "Traitresse !"
+                "Marmona Jean Plank"
+                "Lucien tourna la tête et ne pu cacher son étonnement en voyant le faciès du capitaine"
+                lucien "Jean Plank, je t'attendais !"#J'ai juré je sais pas si j'ai fais exprès mais c'est juste trop drôle
+                jp "Comment ça ?"
+                lucien "Bon d'accord c'est faux. Mais je savais que tu allais venir"
+                jp "Je réitère ma question"
+                lucien "Urgot m'a prévénu, et puis je t'ai entendu gémir pendant plus d'une heure quand tu escaladait l'aile ouest comme un idiot."
+                "Réalisant qu'on l'avait encore une fois trahi, le capitaine, meme pas surpris, fit en son fort intérieur le serment solannel que beaucoup de trucs allait cramer prochainement"
+                jp "Continu"
+                "L'irritation se lisait clairement sur le visage du capitaine, mieux valait changer de sujet"
+                "Lucien décida de faire une alusion aux stigmates d'une activité charnelle avec son épouse qui couvrait le corp de jean Plank"
+
+                lucien "Je vois que ma femme t'as bien acceuilli"
+                jp "HéHé"
+                lucien "Ravale ton air satisfait, elle ne ma nullement trompé"
+                "Jean Plank fit alors une tete de 182,88cm de long"
+                "( Si vous êtes un con d'américain qui ne sais pas utiliser le systeme métrique, sachez que ça fait 6 pieds )"
+                jp "Je ne comprends pas, n'êtes vous pa maris et femme ?"
+                
+                lucien "Mais enfin Jean réfléchis, on ne c'st pas vu depuis 6 semaines et j'ai 12 enfants, tu dois bien te douter qu'il ne sont pas tous de moi ?"
+                "Cette affirmation soulevais beaucoup de question."
+                lucien "A voir l'aura de haine qui t'entoure j'imagine que tu est venu réclamer vengeance"
+                jp "je vois que du a developper ton dont de divination"
+                "Jean Plank sorti son poignar, pret a bondir"
+                "C'est alors que sorti de son angle mort un personnage bien connu du capitaine"
+                sj "Jean Plank !"
+                jp "Saint Gède !"
+                jp "Qu'est ce que tu fais ici ?"
+                sj "Tu te souvient de l'adage l'enemi de mon enemi est mon ami ?"
+                lucien "Et bah là ça n'a rien à voir. Après notre séparation je me suis rendu compte que j'avais fais le mal"
+                lucien "Et le mal c'est mal. J'ai donc entrepris d'aller réparer tes connéries et je suis retournz voir ton amis qui était déjà sorti de la stase"
+                lucien "On a beaucoup discuté et notament de son projet"
+                sj "Et Lucien si présetn qui cherchit un but c'est proposé de se joindre à mes recherches"
+                jp "Qui sont ?"
+                sj "Je crois avoir trouvé un moyen de supprimer le hazard du monde."
+                jinx "Ca veut dire que je ne pourrais plus perdre au carte ?"
+                sj "ça non, ça supprimera juste le facteur chance. Ce qui veut dire que seule les compténces auront de l'importance"
+                jp "Et concretement ça va servir à quoi ?"
+                sj "Eh bien, nous n'avons pas encore vraiemnt discuter des applications concrette, mais ce qui est sur c'est que celà changera le monde !"
+                jinx "Mais c'est totalement con !"
+                "Lassé des élucubration de ces deux anciens amis, Jean bondi sur Lucien pour tenter de lui assener un boure pif qu'il jugeait bien mérité"
+                "Mais Lucien ne se laissa pas faire."
+                "Utilisant ces reflexes surhumain de magicien, il esquiva sans peine notre balour de capitaine"
+                "Jinx bien qu'elle n'éprouvait aucune animosité pour le maginoir dégena son pistolet pour le pointé en diration de Lucien"
+                "Celui ci était malheureusement trop rapide et d'un geste de la main, il appela à lui son baton qui trainait dans un coin de la pièce"
+                "Le superbe objet en bois virvoleta à travers la pièce faucahnt au passage les pied de jinx qui se retrouva les fesses part terre"
+                "Jean voulu se relever mais lucien frappa fermement son baton sur le carrelage"
+                lucien "Fi tin tin ty liz ! Beu A"
+                "des étincelles jahirent à l'endroit ou le bois avait impacté le marbe marquant le sol d'un trace noire."
+                "Jinx et Jean décolère alors du sol et ce figèrent en lair"
+                
+                "D'un geste de la main Lucien les déplaça devant lui"
+                lucien "Tu aurais du le savoir, la vengeance donne des fleurs mais pas de fruit !"
+                jp "Quoi ?!"
+                lucien "Je suis désormais bien trop fort pour toi Jean !"
+                "Jean plank enrageait, il était totalement impuissant."
+                jp "Libère nous canaille !"
+                lucien "Et pourquoi je ferais ça ?"
+                jp "Pour que je puisse éclater ton énorme nez !"
+                lucien "Désolé mais je passe pour cette fois !"
+                lucien "Jean, ne pense tu pas que ta quête de vengence a assez durée ?"
+                lucien "Voilà des semaines que parcour tout le continent comme un chien fou, et tout ça pour quoi ? Trouver présumé coupable d'un méteor qui est tombé chez toi ?"
+                lucien "Tu va finir par blesser quelqu'un !"
+                Jinx "Je crois que C'est un peu tard pour ça"
+
+                lucien "Le fait ai que ça a assez durée Jean, ne pense tu pas qu'il serait temps de te repentir ?" #Riven qui passe la porte de la pièce
+                jp "Regarde moi bien dans les yeux !"
+                jp "non !" #Riven qui passe la prote de la pièce dans l'autre sens
+                lucien "Mais enfin Jean Plank, tu ne te rend pas compte que ta vie est vide de sens et qu'en plus tout le monde te deteste ?"
+                jp "Mais nan c'est faux !"
+                jp "Jinx !"
+                jinx "Ouiiiii"
+                jp "Tu m'aimes ?"
+                jinx "Oui !"
+                jp "Et qu'est ce que tu aimes chez moi ?"
+                jinx "Bon d'accord, j'avoue, j'ai menti !"
+                lucien "Je pense qu'il est grand temps que tu disparaisse !"
+                jinx "Nan mais attend je rigolais"
+                "Les yeux de lucien se mirent à briller d'une inquiétante lueur bleuté"
+                lucien "Tu as fais suffisament de mal autour de toi ! Ton histoire toute entière n'est qu'un immonde ramassi de bétises ! Prépare toi à disparaitre !"
+                "Des runes menaçante entouraient désormais Jean Plank qui impuissant voyait sa vie défiler devant ses yeux"
+                #Flash back
+                grand_mere_jp "J'ai cuisiné du poulet"
+                le_jeune_jp "Ouais !!"
+                #retour au présent
+                
+                "La plupart des passage n'étaient pas vraiment glorieux"
+                lucien "Jean ! Tout le monde doit payer"
+
+                if(vexed_karma):
+                    "Dans un vacarme électrique Jean plank fu alors réduit à neant."
+                    #You died
+                    "Sachez que Karma aurait normalement du interférer en votre faveur ce qui vous aurait sauvé la vie"
+                    "Mais bien sûr comme vous avez eu la mauvaise idée de la vexer elle n'a rien fais."
+                    "Pour une fois je vais être sympa je ne vais pas vous forcer a refaire toute la scene et je vais directement vous envoyer à ce qui aurait du se passer si vous aviez fais le bon choix."
+                    "Mais sérisuement prenez en bonne note de cette expérience et ne dite jamais cette phrase à vos relations. La vrai vie ne sera pas aussi clémente et généralement aucun retour en arrière n'est possible"
+                    "A moins de cogner assez fort..."#Ptet la changer celle là
+                
+                else jump happy_karma
+                
+                label : happy_karma
+                karma "Attends !"
+                karma "Laisse lui une chance"
+                lucien "Mais ?"
+                karma "S'il te plait, fait le pour moi"
+                lucien "Très bien."
+                "Lucien agita son baton et les runes autour de Jean Plank disparurent pour laisser place à de nouvelle toujours aussi inquiétante, mais quand même un peu moins"
+                "Cette fois ci Jinx aussi était  cibler"
+                jinx "Et là mais j'ai rien fais moi !"
+    
+                lucien "Ni GERUN DA YO !"
+                "Un flash lumineux envahi alors l'espace"
+                "Lucien, Saint Gede, Karma et le chateau des traitres disparurent"
+                "Et progressivement alors que leurs yeux s'abituaint à l'obscurité ambiante, Jean et Jinx remarquairent qu'il étaient désormais à l'extérieure dans une vaste prairie"
+                "L'endroit étaitfamilier à Jean Plank"
+                "Il remarqua les ruines d'une ancienne demeure ainsi que l'immence cratère dans lequel il se trvais et sur lequel l'herebe avait fraichement "
+                "Il était de retour chez lui."
+                "Jean Plank se sentait perdu et impuissant"
+                "cette fois ci il avait perdu sans même combattre et par dessus tout ce qu'avait dis lucien l'avait ébranlé"
+                "Ses jambes refusant de le porter, il s'effondra dans l'herbe et s'allongea sur le dos"
+                "Le regard vide, il fixait désormais le ciel étoilé"
+                "Un bon moment passa."
+                jp "Tu penses que Lucien à raison ?"
+                jinx "Et toi ?"
+                jp "Je n'ai jamais rien connu d'autre que ma quête de vengeance."
+                jp "'Tout le monde doit payer !' plus qu'une devise c'était mon credo."
+                jp "Si j'enlève ça qu'est ce qu'il me reste ?"
+                jinx "Et avant tout ça ?"
+                JP "Mon passé est essentiellement constitué de chose dont je ne peux pas me rappelé et d'autre choses don't je ne veux pas me rappeler"
+                jp "J'ai passé ma vie à courrir derrière un trésors qu'aujourd'hui je n'ai pas"
+                jp "Et je me rend désormais compte que je n'ai finalement rien acommpli de grandiose."
+                jp "Je vieilli jinx et ce qu'a dit lucien ma ébranlé, si je n'arrive pas à me venger, qu'adviendra t'il de ma légende qui est finalement la seule chose pour laquelle j'ai oeuvré ?"
+                jinx "Bon Jean, jse vais être serieuse 5 minutes parce que je pense que tu en a vraiment besoin"
+                "On a tous des hauts et des bas"
+                "Même si dans ton cas tu a toujours eu l'habitude de voler très prés du sol."
+                "Peut être qu'aujourd'hui tu as touché le font mais dans ce cas tu n'as qu'a te relever comme d'habitude"
+                "Tenace comme le cafard, c'est peut-etre ta plus grande force"
+                jp "Et reprendre ma quête de vengeance ?"
+                jinx "Ce n'es pas ce que j'ai dis"
+                jp "Malheursement la vengeance ma vie n'a plus du sens"
+                jinx "..."
+                jinx "Sache que contraiement à ce que je t'ai dis tout à lheure moi je t'aime bien et si tu as besoin je serais là pour toi"
+                jinx "Mais Lucien n'a pas tout à fait tort. Serraice si terrible de chercher une autre raison à ton existance ?"
+                "Sur ces mots, elle s'éloigna, laissant Jean Plank seul avec ses pensées, qui résonnaient dans le silence environnant."
+
+
+
+
+    #Finito ici
 
 
 
@@ -2929,30 +3325,19 @@ jp "Haha "
 
 
 
+    "Le lendemain il la reveille frai et motivé, il va concoter une équipe"
 
 
+Singed est en vie
+Il ne prend pas part au combat sauf quand jean plank le bousule ce qui lui fait renverser une potion, il tabasse alors violamment la capitaine en lui demandant ce qu'il a fait pour mérité ça (à la mafioso)'
 
+                #Flash back 2
+                grand_mere_jp "J'ai cuisiné du poulet"
+                le_jeune_jp "Ouais !!"
+                #retour au présent
+                jp "ça ne sert à rien..."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mettre une photo de styrale dans les crédi avec la mention : "styrale quand il a découvert le apssage sur les 24 enfants"
 
 
 #
